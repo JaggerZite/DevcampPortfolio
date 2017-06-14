@@ -16,6 +16,7 @@ def my_great_method
  puts "Here it is"
 end
 '''
+
 '''javascript
 alert ('Hi there');
 '''
